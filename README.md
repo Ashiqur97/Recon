@@ -1,7 +1,7 @@
 
 # Insatallation
 
-$ git clone https://github.com/cspshivam/easyrecon.git
+$ git clone https://github.com/Ashiqur97/Recon.git
 $ cd easyrecon
 $ chmod +x easyRecon.sh
 $ ./easyRecon.sh
